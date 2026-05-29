@@ -1,4 +1,4 @@
-# 🔒 CyberSec Awareness Chatbot — Part 2
+# POE — Part 2
 
 ## Description
 A **WinForms GUI** cybersecurity awareness chatbot built in C# (.NET 6). This is Part 2 of the project, expanding the console chatbot with a full graphical interface, dynamic responses, sentiment detection, and memory features.
